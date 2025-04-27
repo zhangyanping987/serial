@@ -1,0 +1,10 @@
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/uninstall.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/serial_uninstall.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/serial.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/test.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/edit_cache.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/rebuild_cache.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/list_install_components.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/install.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/install/local.dir
+/home/zhang/myenv/bot/src/serial_ros2/build/serial/CMakeFiles/install/strip.dir
